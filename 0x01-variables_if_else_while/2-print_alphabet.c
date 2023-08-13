@@ -3,7 +3,7 @@
 /**
  * main - this is the entry point.
  *
- * return:always =(success)
+ * Return:always =(success)
  */
 int main(void)
 {
