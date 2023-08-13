@@ -5,20 +5,19 @@
  */
 int main(void)
 {
-char c;
-char d;
-c = 'a';
-d = 'A';
+int c = 97;
+int d = 65;
+
 while
-(c <= 'z')
+(c <= 122)
 {
 putchar(c);
 c++;
 }
 while
-(d >= 'Z')
+(d <= 90)
 {
-putchar (d);
+putchar(d);
 d++;
 }
 putchar('\n');
