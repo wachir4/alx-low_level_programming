@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description:single digits of base 10 print.
- * return: always 0
+ * Description:single digits of base 10 print.
+ * Return: always 0
  */
 int main(void)
 {
