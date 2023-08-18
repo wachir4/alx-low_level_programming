@@ -2,12 +2,13 @@
 
 /**
  * print_triangle - entry point
- * Description: i prints diagonals
- * @size: size of the triangle
+ * Description:i prints diagonals
+ *@size: size of the triangle
  * Return: void
  */
 
-void print_triange(int size)
+void print_triangle(int size)
+
 {
 int row, hashes, spaces;
 
