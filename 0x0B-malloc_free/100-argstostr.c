@@ -32,7 +32,7 @@ i = 0;
 k = 0;
 while (i < ac)
 {
-j =0;
+j = 0;
 
 while (av[i][j])
 {
